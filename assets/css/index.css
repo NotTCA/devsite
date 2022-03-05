@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap");
 
 body,
 html {
@@ -159,6 +161,16 @@ html {
 
 .card-text {
   color: gray;
+}
+
+.count {
+  font-family: "Roboto";
+  font-size: 120px;
+}
+
+#name {
+  font-family: "Ubuntu";
+  font-size: 35px;
 }
 
 /* -------------------------- */
